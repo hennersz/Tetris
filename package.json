@@ -4,8 +4,8 @@
   "private": true,
   "homepage": "http://morti.net/tetris/",
   "dependencies": {
-    "react": "^16.1.1",
-    "react-dom": "^16.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "react-scripts": "1.0.17"
   },
   "scripts": {
